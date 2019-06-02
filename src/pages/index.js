@@ -31,7 +31,7 @@ class IndexPage extends React.PureComponent{
       <ContainerQuery query={query}>
         {(params) => (
           <div className={classNames(params, styles.wrap)}>
-              yunle-template-gatsby
+              poetry-template-gatsby
           </div>
         )}
       </ContainerQuery>

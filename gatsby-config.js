@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'yunle-template-gatsby',
+    title: 'poetry-template-gatsby',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -16,7 +16,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'yunle-template-gatsby',
+        name: 'poetry-template-gatsby',
         short_name: 'starter',
         start_url: '/',
         background_color: '#663399',
